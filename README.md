@@ -1,4 +1,4 @@
-# Marketing Sales Prediction Using Multiple Linear Regression
+# Marketing and Sales data evaluation
 
 ## Project Overview
 
